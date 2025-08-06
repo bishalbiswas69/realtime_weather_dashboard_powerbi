@@ -22,5 +22,5 @@ This project is an interactive Power BI dashboard that connects to a **live weat
 - `weather_dashboard.pbix` – The Power BI file containing data connection, transformations, and visualizations
 
 ## 📸 Screenshot
-
+![image alt](https://github.com/bishalbiswas69/realtime_weather_dashboard_powerbi/blob/8a82ace89c06a91434364b8721c3fba333576d84/Screenshot%202025-08-07%20022650.png)
 
